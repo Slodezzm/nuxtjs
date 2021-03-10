@@ -14,7 +14,7 @@
           target="_blank"
           class="button--green"
         >
-          Documentation1
+          Yellow Guanguan
         </a>
         <a
           href="https://github.com/nuxt/nuxt.js"
