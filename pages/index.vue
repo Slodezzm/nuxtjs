@@ -14,7 +14,7 @@
           target="_blank"
           class="button--green"
         >
-          Yellow Guanguan
+          黄冠
         </a>
         <a
           href="https://github.com/nuxt/nuxt.js"
